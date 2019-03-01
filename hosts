@@ -1,2 +1,5 @@
 [Puppet]
 master.salah.io
+
+[srv]
+server2
